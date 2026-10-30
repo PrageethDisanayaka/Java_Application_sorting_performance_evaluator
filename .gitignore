@@ -1,5 +1,6 @@
 # Compiled class file
 *.class
+build/
 
 # Log file
 *.log
@@ -12,6 +13,7 @@
 
 # Package Files #
 *.jar
+!SortingPerformanceEvaluator.jar
 *.war
 *.nar
 *.ear
