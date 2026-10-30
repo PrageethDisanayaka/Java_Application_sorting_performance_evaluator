@@ -1,0 +1,7 @@
+ID,Value,Note
+1,-4.5,negative
+2,0,zero
+3,3.14,decimal
+4,-4.5,duplicate
+5,1e3,scientific notation
+6,2.2,"contains a comma, and ""quotes"""
